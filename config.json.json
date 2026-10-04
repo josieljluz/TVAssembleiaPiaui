@@ -1,0 +1,264 @@
+{
+  "days": 2,
+
+  "timezone": "America/Fortaleza",
+
+  "channels": [
+    {
+      "name": "TV Assembleia",
+      "tvg_id": "TVAssembleiaPiaui.br",
+      "tvg_name": "TV Assembleia"
+    },
+    {
+      "name": "TV Alvorada",
+      "tvg_id": "TVAlvorada.br",
+      "tvg_name": "TV Alvorada"
+    },
+
+    {
+      "name": "TV Cidade Verde Piaui",
+      "tvg_id": "TVCidadeVerdePiaui.br",
+      "tvg_name": "TV Cidade Verde Piaui"
+    },
+
+    {
+      "name": "O Dia TV",
+      "tvg_id": "ODiaTV.br",
+      "tvg_name": "O Dia TV"
+    },
+
+    {
+      "name": "TV Assembleia Piaui",
+      "tvg_id": "TVAssembleiaPiaui.br",
+      "tvg_name": "TV Assembleia Piaui"
+    },
+    
+    {
+      "name": "Rede Meio Norte",
+      "tvg_id": "RedeMeioNorte.br",
+      "tvg_name": "Rede Meio Norte"
+    },
+
+    {
+      "name": "TV Antena 10",
+      "tvg_id": "TVAntena10.br",
+      "tvg_name": "TV Antena 10"
+    },
+    
+    {
+      "name": "Band Piaui",
+      "tvg_id": "BandPiaui.br",
+      "tvg_name": "Band Piaui"
+    },
+	
+	
+    {
+      "name": "Sexy Hot",
+      "tvg_id": "SexyHot.br",
+      "tvg_name": "Sexy Hot"
+    },
+	
+    {
+      "name": "Sex Zone",
+      "tvg_id": "SexZone.br",
+      "tvg_name": "Sex Zone"
+    },
+    
+    {
+      "name": "Vênus TV",
+      "tvg_id": "VenusTV.br",
+      "tvg_name": "Vênus TV"
+    },
+
+    {
+      "name": "Canal Adulto",
+      "tvg_id": "CanalAdulto.br",
+      "tvg_name": "Canal Adulto"
+    },
+    
+    {
+      "name": "Playboy TV",
+      "tvg_id": "PlayboyTV.br",
+      "tvg_name": "Playboy TV"
+    },
+
+    {
+      "name": "Sex Prive",
+      "tvg_id": "SexPrive.br",
+      "tvg_name": "Sex Prive"
+    },
+
+    {
+      "name": "Sextreme",
+      "tvg_id": "Sextreme.br",
+      "tvg_name": "Sextreme"
+    },
+
+    {
+      "name": "TV Brasil",
+      "tvg_id": "TVBrasil.br",
+      "tvg_name": "TV Brasil"
+    },
+
+    {
+      "name": "TV Cultura",
+      "tvg_id": "TVCultura.br",
+      "tvg_name": "TV Cultura"
+    },
+
+    {
+      "name": "SBT",
+      "tvg_id": "SBT.br",
+      "tvg_name": "SBT"
+    },
+
+    {
+      "name": "Band",
+      "tvg_id": "Band.br",
+      "tvg_name": "Band"
+    },
+
+    {
+      "name": "TV Clube",
+      "tvg_id": "TVClube.br",
+      "tvg_name": "TV Clube"
+    },
+
+    {
+      "name": "SBT News",
+      "tvg_id": "SBTNews.br",
+      "tvg_name": "SBT News"
+    },
+    
+    {
+      "name": "Globo News",
+      "tvg_id": "GloboNews.br",
+      "tvg_name": "Globo News"
+    },
+    
+    {
+      "name": "Band News",
+      "tvg_id": "BandNews.br",
+      "tvg_name": "Band News"
+    },
+
+    {
+      "name": "Jovem Pan News",
+      "tvg_id": "JovemPanNews.br",
+      "tvg_name": "Jovem Pan News"
+    },
+    
+    {
+      "name": "CNN Brasil",
+      "tvg_id": "CNNBrasil.br",
+      "tvg_name": "CNN Brasil"
+    },
+
+    {
+      "name": "CNN Brasil Money",
+      "tvg_id": "CNNBrasilMoney.br",
+      "tvg_name": "CNN Brasil Money"
+    },
+    
+    {
+      "name": "Record News",
+      "tvg_id": "RecordNews.br",
+      "tvg_name": "Record News"
+    },
+
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+    
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+    
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+    
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+    
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+    
+    {
+      "name": " ",
+      "tvg_id": " ",
+      "tvg_name": " "
+    },
+
+    {
+      "name": "Record TV",
+      "tvg_id": "RecordTV.br",
+      "tvg_name": "Record TV"
+    }
+  ],
+
+  "aliases": {
+    "TV Assembleia PI": "TVAssembleiaPiaui.br",
+    "TV Assembleia do Piauí": "TVAssembleiaPiaui.br",
+    "Assembleia Legislativa PI": "TVAssembleiaPiaui.br",
+
+    "TV Cultura HD": "TVBrasil.br",
+    "Cultura HD": "TVBrasil.br",
+
+    "SBT Piaui": "TVCidadeVerdePiaui.br",
+    "TV Cidade Verde Picos": "TVCidadeVerdePiaui.br",
+    "TV Cidade Verde Picos HD": "TVCidadeVerdePiaui.br",
+    "TV Cidade Verde Piaui HD": "TVCidadeVerdePiaui.br",
+
+    "Globo Piaui": "TVClube.br",
+    "Rede Clube": "TVClube.br",
+    "Globo Teresina": "TVClube.br",
+    "TV Clube HD": "TVClube.br",
+
+    "Venus": "VenusTV.br",
+
+    "Playboy": "PlayboyTV.br",
+
+    "SBT HD": "SBT.br",
+
+    "Band HD": "Band.br",
+
+    "Record HD": "RecordTV.br"
+  }
+}
